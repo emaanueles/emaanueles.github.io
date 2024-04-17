@@ -1,20 +1,16 @@
-body {
-  background-color:pink;
-}
-  h1 {
-  color: white;
-  text-align: center;
-}
-p {
-  font-family:cyan;
-  font-size: 20px;
-  color:black;
-}
-row {
-  padding: "10px";
-  margin: "10px";
-}
-img {
-  width: 75px;
-  height: 75px;
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus objetivos do ano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+:root{
+  --cor-de-fundo: #1E1E1E;
+  --verde: #6FFF57;
+  --branco: #FFFFFF;
+  --botao-ativo: #3A375E;
+  --botao-inativo: rgba(58, 55, 94, 0.5);
+  --texto-fundo: rgba(58, 55, 94, 0.3);
 }
