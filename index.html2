@@ -1,25 +1,46 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meus objetivos do ano</title>
+  <title>Site da Ane, Julia e Larissa</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <img src="images.jpeg" class="imgdif">
-    <a href="https://youtu.be/cvbWvtSsAC0?si=yxCJGF9AuGMXauqf" target="_blank">CACHORROS</a
-
-</body>
-</html>
-<body>
-  <section class="conteudo-principal">
-    <h2 class="titulo-principal">Meus Objetivos do ano_</h2>
-    <div class="botoes">
-      <button class="botao">Cursos na Alura</button>
-      <button class="botao">Criar projetos em JavaScript</button>
-      <button class="botao">Criar um portfólio</button>
-      <button class="botao">Atualizar meu currículo</button>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Site da Ane, Julia e Larissa<span>_</span></h2>
+        <div class="conteudo">
+          <div class="botoes">
+              <button class="botao ativo">Programção</button>
+              <button class="botao">Ane</button>
+              <button class="botao">Julia</button>
+              <button class="botao">Larissa</button>
+          </div>
+          <div class="abas-textos">
+              <div class="aba-conteudo ativo">
+                  <h3 class="aba-conteudo-titulo-principal">A  grandeza de um homem não está em sua riqueza,</h3>
+                  <h4 class="aba-conteudo-titulo-secundario">mas em sua integridade e habilidade de afetar positivamente as pessoas ao seu redor</h4>
+              </div>
+              <div class="aba-conteudo">
+                  <h3 class="aba-conteudo-titulo-principal">A  grandeza de um homem não está em sua riqueza,</h3>
+                  <h4 class="aba-conteudo-titulo-secundario">mas em sua integridade e habilidade de afetar positivamente as pessoas ao seu redor</h4>
+              </div>
+              <div class="aba-conteudo">
+                  <h3 class="aba-conteudo-titulo-principal">A  grandeza de um homem não está em sua riqueza,</h3>
+                  <h4 class="aba-conteudo-titulo-secundario">mas em sua integridade e habilidade de afetar positivamente as pessoas ao seu redor</h4>
+              </div>
+              <div class="aba-conteudo">
+                  <h3 class="aba-conteudo-titulo-principal">A  grandeza de um homem não está em sua riqueza,</h3>
+                  <h4 class="aba-conteudo-titulo-secundario">mas em sua integridade e habilidade de afetar positivamente as pessoas ao seu redor</h4>
+              </div>
+          </div>
+      </div>
+      
     </div>
-  </section>
-</body>
-</html>
+    
+
+    </section>
+    <script src="main.js"></script>
+  </body>
+  </html>
