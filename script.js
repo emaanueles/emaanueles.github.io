@@ -11,6 +11,7 @@ const botaoJogarNovamente = document.querySelector(".novamente-btn");
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
+} 
 
 function mostraResultado() {
 caixaPerguntas.textContent = "Em 2049, ...";  
@@ -18,3 +19,6 @@ textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = ""; 
 caixaResultado.classList.add("mostrar");
 botaoJogarNovamente.addEventistener("click", jogarNovamente);
+} 
+
+function jogaNovamente(){
